@@ -1,0 +1,55 @@
+/* body{
+    margin: 0px;
+    padding: 0px;
+
+} */
+#map {
+  height: 100vh;
+}
+#getb {
+  height: 30px;
+}
+.btn-secondary {
+  margin: 5px 5px 5px 5px;
+}
+
+#lot {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}
+
+.star {
+  font-size: 1.5em;
+}
+#bagloc {
+  background-color: #add4ee;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+#myloc {
+  background-color: #add4ee;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+#rastloc {
+  background-color: #add4ee;
+  border: none;
+  color: white;
+  margin-top: 20px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
